@@ -23,10 +23,10 @@ setup(
     install_requires=[
         "cle==8.20.7.27",
         "angr==8.20.7.27",
-        "redis",
+        "redis==3.3.10",
         "celery==4.4.0",
         "archinfo==8.20.7.27",
-        "dpkt",
-        "termcolor",
+        "dpkt==1.9.2",
+        "termcolor==1.1.0",
     ],
 )
