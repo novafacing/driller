@@ -26,7 +26,7 @@ setup(
         "redis==3.3.10",
         "celery==4.4.0",
         "archinfo==8.20.7.27",
-        "dpkt==1.9.2",
+        "dpkt==1.9.1",
         "termcolor==1.1.0",
     ],
 )
