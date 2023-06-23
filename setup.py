@@ -24,7 +24,7 @@ setup(
         "cle==8.20.7.27",
         "angr==8.20.7.27",
         "redis",
-        "celery",
+        "celery==4.4.0",
         "archinfo==8.20.7.27",
         "dpkt",
         "termcolor",
